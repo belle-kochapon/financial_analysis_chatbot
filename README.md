@@ -42,8 +42,8 @@ To give you a clear idea of how to interact with the chatbot, here's what the in
 
 Here's what interacting with the chatbot looks like:
 
-![image](https://github.com/user-attachments/assets/619af543-49b4-48da-aa69-a031df4ff287)
-![image](https://github.com/user-attachments/assets/678efd27-c9c1-4eb0-ac54-ffd2268cd585)
+![image](https://github.com/user-attachments/assets/592d4000-ed45-49d6-98db-886709a8566b)
+![image](https://github.com/user-attachments/assets/8ea7b379-0691-4448-9942-f073ea636b59)
 
 ## How to Run
 
