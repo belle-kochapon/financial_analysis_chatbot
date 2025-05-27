@@ -36,6 +36,12 @@ The chatbot is designed to respond to predefined financial queries. Here are som
 * `Tell me about Microsoft's cash flow in 2024.`
 
 ### Example Interactions:
+To give you a clear idea of how to interact with the chatbot, here's what the initial interface looks like when you run the notebook, followed by a series of example conversations:
+
+![Chatbot Initial Welcome](https://github.com/user-attachments/assets/a9435adc-c91c-43ac-ab7e-24d818125738)
+)
+
+Here's what interacting with the chatbot looks like:
 
 ![image](https://github.com/user-attachments/assets/619af543-49b4-48da-aa69-a031df4ff287)
 ![image](https://github.com/user-attachments/assets/678efd27-c9c1-4eb0-ac54-ffd2268cd585)
