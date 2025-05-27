@@ -44,7 +44,7 @@ The chatbot is designed to respond to predefined financial queries. Here are som
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/belle-kochapon/financial_analysis_chatbot.git](https://github.com/belle-kochapon/financial_analysis_chatbot.git)
+    git clone https://github.com/belle-kochapon/financial_analysis_chatbot.git
     cd financial_analysis_chatbot
     ```
 2.  **Ensure you have the necessary files:**
