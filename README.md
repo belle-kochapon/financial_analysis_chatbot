@@ -39,7 +39,6 @@ The chatbot is designed to respond to predefined financial queries. Here are som
 To give you a clear idea of how to interact with the chatbot, here's what the initial interface looks like when you run the notebook, followed by a series of example conversations:
 
 ![Chatbot Initial Welcome](https://github.com/user-attachments/assets/a9435adc-c91c-43ac-ab7e-24d818125738)
-)
 
 Here's what interacting with the chatbot looks like:
 
