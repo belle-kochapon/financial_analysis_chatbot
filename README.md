@@ -76,3 +76,4 @@ This project successfully demonstrates the application of structured financial d
 
 * `financial_analysis_notebook.ipynb`: The Jupyter Notebook containing the data analysis from Task 1 and the chatbot implementation for Task 2.
 * `financial_data.csv`: The raw financial data extracted from 10-K annual reports.
+* `README.md`: This file, providing an overview of the project.
