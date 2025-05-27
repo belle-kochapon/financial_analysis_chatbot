@@ -1,6 +1,6 @@
 # Financial Insights Chatbot
 
-This repository contains the code for a basic AI-powered financial chatbot, developed as part of the [BCG virtual internship on Forage.com](https://www.theforage.com/simulations/bcg/gen-ai-anlo), focusing on providing financial insights for select major companies. The chatbot leverages historical financial data to answer predefined queries and offers a glimpse into the potential of AI in financial analysis.
+This repository contains the code for a basic AI-powered financial chatbot, developed as part of the [Boston Consulting Group (BCG) Forage Generative AI Virtual Internship on Forage.com](https://www.theforage.com/simulations/bcg/gen-ai-anlo), focusing on providing financial insights for select major companies. The chatbot leverages historical financial data to answer predefined queries and offers a glimpse into the potential of AI in financial analysis.
 
 ## Project Overview
 
