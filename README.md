@@ -73,6 +73,15 @@ It's important to understand the current limitations of this rule-based chatbot:
 * **No Advanced AI/ML:** Does not incorporate sophisticated NLP techniques (like intent recognition or entity extraction) or machine learning algorithms for self-improvement.
 * **Text-Based Only:** Does not provide visual aids or integrate with external visualisation tools.
 
+## Enhanced Version (Streamlit Web App)
+For an enhanced web-based version of this financial chatbot, featuring an interactive graphical user interface (GUI) and deployment on Streamlit Community Cloud, please visit its dedicated repository:
+
+Click [here](https://github.com/belle-kochapon/financial_chatbot.git) for the Streamlit Chatbot Repository
+Click [here](https://bcgfinancialchatbot.streamlit.app/) for the Live Demo Chatbot
+
+
+This enhanced version builds upon the core logic developed here, offering a more user-friendly experience.
+
 ## Conclusion
 
 This project successfully demonstrates the application of structured financial data with rule-based natural language processing to create a functional financial inquiry chatbot. While operating within defined rules, it effectively delivers relevant insights, including year-specific data and growth metrics. This foundational understanding equips the chatbot with the intelligence to provide more insightful and actionable financial analysis for the specified companies.
